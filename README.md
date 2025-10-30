@@ -1,6 +1,6 @@
 # Joineazy Frontend Internship Task - Assignment Dashboard
 
-[cite_start]A responsive React.js application built as a technical task for the Joineazy Frontend Internship[cite: 1408]. This project simulates a dashboard for managing student assignments with two distinct roles: Student and Admin.
+A responsive React.js application built as a technical task for the Joineazy Frontend Internship. This project simulates a dashboard for managing student assignments with two distinct roles: Student and Admin.
 
 ---
 
@@ -12,16 +12,15 @@
 
 ### **Tech Stack**
 
-* [cite_start]**Framework:** React.js [cite: 1422]
-* [cite_start]**Styling:** Tailwind CSS [cite: 1422, 1426]
-* **Routing:** React Router v6
+* **Framework:** React.js
+* **Styling:** Tailwind CSS
 * **Language:** JavaScript (ES6+)
 
 ---
 
 ### **Features**
 
-* [cite_start]**Role-Based Login:** A simple login page to select either a "Student" or "Admin" view[cite: 1413].
+* **Role-Based Login:** A simple login page to select either a "Student" or "Admin" view.
 * **Student Dashboard:**
     * [cite_start]Displays a list of all assignments from a mock JSON data source[cite: 1414, 1429].
     * [cite_start]Implements a **double-verification flow** (`window.confirm`) for confirming assignment submissions[cite: 1415].
