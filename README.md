@@ -22,13 +22,13 @@ A responsive React.js application built as a technical task for the Joineazy Fro
 
 * **Role-Based Login:** A simple login page to select either a "Student" or "Admin" view.
 * **Student Dashboard:**
-    * [cite_start]Displays a list of all assignments from a mock JSON data source[cite: 1414, 1429].
-    * [cite_start]Implements a **double-verification flow** (`window.confirm`) for confirming assignment submissions[cite: 1415].
-    * [cite_start]Dynamically updates the UI to show "Submitted" status using React state[cite: 1419].
+    * Displays a list of all assignments from a mock JSON data source.
+    * Implements a **double-verification flow** (`window.confirm`) for confirming assignment submissions.
+    * Dynamically updates the UI to show "Submitted" status using React state.
 * **Admin Dashboard:**
-    * [cite_start]Displays a list of all students and their assignment progress[cite: 1418].
-    * [cite_start]Features a reusable **progress bar component** to visually represent data[cite: 1418].
-* [cite_start]**Fully Responsive:** Designed with Tailwind CSS to be responsive across desktop and mobile devices[cite: 1419, 1426].
+    * Displays a list of all students and their assignment progress.
+    * Features a reusable **progress bar component** to visually represent data.
+* **Fully Responsive:** Designed with Tailwind CSS to be responsive across desktop and mobile devices.
 
 ---
 
