@@ -9,25 +9,21 @@ import Login from './pages/Login.jsx';
 import StudentDashboard from './pages/StudentDashboard.jsx';
 import AdminDashboard from './pages/AdminDashboard.jsx';
 // Define the routes
-const router = createBrowserRouter(
-  [
-    {
-      path: '/',
-      element: <Login />
-    },
-    {
-      path: '/student',
-      element: <StudentDashboard />
-    },
-    {
-      path: '/admin',
-      element: <AdminDashboard />
-    }
-  ],
+// Define the routes
+const router = createBrowserRouter([
   {
-    basename: "/joineazy-task/" 
+    path: '/',
+    element: <Login />
+  },
+  {
+    path: '/student',
+    element: <StudentDashboard />
+  },
+  {
+    path: '/admin',
+    element: <AdminDashboard />
   }
-);
+]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
