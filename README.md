@@ -6,8 +6,7 @@ A responsive React.js application built as a technical task for the Joineazy Fro
 
 ### **Live Demo**
 
-[**Link to your deployed website**] <-- *We will fill this in tomorrow after we deploy it to Netlify/Vercel.*
-
+[**[Link to your deployed website](https://rococo-faun-1a5c7f.netlify.app/)**]
 ---
 
 ### **Tech Stack**
